@@ -172,4 +172,5 @@ a:hover{
   background-image: -o-linear-gradient(top, #d6fc3c, #3498db);
   background-image: linear-gradient(to bottom, #d6fc3c, #3498db);
   text-decoration: none;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.719)
 }
